@@ -2,7 +2,7 @@
 
 ## Getting started
 
-To run the project, just the following commands:
+To set up the project, run the following commands:
 
 	npm i
 	npm run dev
