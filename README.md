@@ -3,8 +3,10 @@
 ## Getting started
 
 To run the project, just the following commands:
+
 	npm i
 	npm run dev
+
 
 Or simply 
 
